@@ -47,15 +47,12 @@ flutter run
 
 ## 📋 Fitur Utama
 
-✅ **Wajib (80 poin):**
 - Flutter + Android 13 compatibility
 - Provider State Management
 - Three-state UI (Loading, Error, Success)
 - REST API Integration
 - JWT Authentication
 - Layered Architecture (Models, Services, Providers, Screens)
-
-✅ **Tambahan (20 poin):**
 - Full CRUD Operations
 - Search & Filter Games
 - Smooth Animations & Transitions
