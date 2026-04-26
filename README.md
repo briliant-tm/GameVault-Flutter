@@ -90,7 +90,7 @@ Lihat [gamevault_backend/README.md](gamevault_backend/README.md) untuk detail en
 - **Android** 5.0+ (minSdk 21)
 - **Target:** Android 13+ (Android 33)
 
-## 🎯 Project Requirements (Sesuai PDF)
+## 🎯 Project Requirements
 
 | Requirement | Status |
 |-------------|--------|
@@ -150,13 +150,9 @@ Gunakan Postman atau curl untuk test API endpoints.
 flutter test
 ```
 
-## 📄 License
-
-Educational Project - Tugas 2 Pengembangan Aplikasi Berbasis Platform
-
 ## 👨‍💻 Author
 
-[Your Name]
+Bril
 
 ## 📞 Support
 
