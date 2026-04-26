@@ -1,0 +1,22 @@
+# Dart
+.dart_tool/
+.packages
+*.lock
+pubspec.lock
+
+# IDE
+.idea/
+.vscode/
+*.code-workspace
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Build
+build/
+dist/
+.env
+
+# OS
+*.log
